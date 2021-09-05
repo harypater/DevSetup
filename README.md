@@ -3,7 +3,7 @@
 ## Install iTerm (Better terminal)
 - https://iterm2.com/
 
-## Install Brew
+## Install Homebrew (package manager)
 - https://brew.sh/
 
 ## Install commandline tools (with GIT)
